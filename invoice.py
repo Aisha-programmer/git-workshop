@@ -3,4 +3,3 @@ def calculate_total (price):
     return price + tax
 print(" Total with tax:", calculate_total(100))
 print ("new change") 
-print("another change")
